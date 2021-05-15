@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.*;
 
+import static javax.swing.text.html.HTML.Tag.HEAD;
+
 public class list {
 
     public static void main(String[] args) throws ExecutionException, InterruptedException {
@@ -11,7 +13,8 @@ public class list {
 
         try {
             list.get(0);
-            System.out.println("捕获了上zzzddddddz面ddddddsssssss");
+            System.out.println("捕获了上合并");
+
         } catch (Exception e) {
             System.out.println("捕获了");
         }
