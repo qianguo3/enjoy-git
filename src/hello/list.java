@@ -13,7 +13,7 @@ public class list {
 
         try {
             list.get(0);
-            System.out.println("捕获了上合并远程仓库");
+            System.out.println("捕获了上合并远程仓库k1代码");
 
         } catch (Exception e) {
             System.out.println("捕获了");
