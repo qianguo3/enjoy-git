@@ -11,7 +11,7 @@ public class list {
 
         try {
             list.get(0);
-            System.out.println("捕获了上zzzz面");
+            System.out.println("捕获了上zzzz面dddddd");
         } catch (Exception e) {
             System.out.println("捕获了");
         }
